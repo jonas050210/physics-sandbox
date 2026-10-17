@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Project-local environment and generated artifacts
+.venv/
+build/
+dist/
+reports/
+*.log
+
+# User save files (examples/ is versioned; personal saves are not)
+saves/*
+!saves/.gitkeep
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
