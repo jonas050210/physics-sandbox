@@ -1,0 +1,5 @@
+# Runtime dependencies (pinned). Installed by main.py into the project-local .venv.
+# Supported Python: 3.11 - 3.14 (wheels verified for 3.11-3.14, manylinux x86_64).
+mujoco==3.16.0
+panda3d==1.10.16
+numpy==2.4.6
